@@ -1,0 +1,16 @@
+{
+  "name": "questionpaper-generator-using-nodejs-with-genai",
+  "version": "1.0.0",
+  "description": "Generate question papers using Node.js and Google Gemini Flash 2.0 AI",
+  "main": "Gemini.js",
+  "scripts": {
+    "start": "node Gemini.js"
+  },
+  "dependencies": {
+    "@google/genai": "^latest",
+    "dotenv": "^latest",
+    "express":"5.1.0"
+  },
+  "author": "KUSH-CODES08",
+  "license": "MIT"
+}
